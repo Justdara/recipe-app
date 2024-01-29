@@ -2,6 +2,8 @@
 
 Welcome to **Cook It Up!** - the tastiest recipe app in the digital kitchen! 🎉
 
+[**Live site**] (https://olabampe-cookitup.netlify.app/)
+
 ## Project Overview
 
 ### What is Cook It Up?
