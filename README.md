@@ -28,7 +28,7 @@ npm start
 4. **Open Sesame:**
 Launch your favorite web browser and go to http://localhost:3000. Your culinary journey begins here!
 
-**Features 🍽️**
+## Features 🍽️
 Add New Recipes
 Click on the "Add Recipe" button to sprinkle your creativity into the app.
 Input the name, ingredients, steps, and any secret sauce your recipe might have.
