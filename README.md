@@ -33,17 +33,17 @@ Cook It Up is a user-friendly recipe app that allows culinary enthusiasts to add
 
 ## Features 🍽️
 
-- Add New Recipes
+- Add New Recipes:
   Click on the "Add Recipe" button to sprinkle your creativity into the app.
   Input the name, ingredients, steps, and any secret sauce your recipe might have.
 
-- Delete Recipes
+- Delete Recipes:
   Accidentally added salt instead of sugar? No worries!
   Hover over a recipe and click the delete icon to send it to the digital compost bin.
 
--View Recipes
-Feast your eyes on a visual buffet of recipes.
-Click on a recipe card to view the full details and start cooking up a storm.
+- View Recipes:
+  Feast your eyes on a visual buffet of recipes.
+  Click on a recipe card to view the full details and start cooking up a storm.
 
 ## Contributing 🍰
 
