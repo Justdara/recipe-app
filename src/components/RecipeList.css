@@ -51,3 +51,12 @@
 .recipe-list .card.dark p {
   color: #e2e2e2;
 }
+.delete {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+.delete:hover {
+  transform: rotate(45deg);
+}
