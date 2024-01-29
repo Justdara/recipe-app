@@ -13,22 +13,22 @@ Cook It Up is a user-friendly recipe app that allows culinary enthusiasts to add
 1. **Clone the Repository:**
    - Get your apron ready and clone this repository to your local machine. No need to preheat your computer; we've got the tech ingredients covered!
 
-```bash
 git clone https://github.com/your-username/recipe-app.git
 cd recipe-app
 
 2. **Install Dependencies:**
-Whip up the required dependencies by running:
-npm install
+   Whip up the required dependencies by running:
+   npm install
 
 3. **Fire Up the App:**
-Start the sizzle with:
-npm start
+   Start the sizzle with:
+   npm start
 
 4. **Open Sesame:**
-Launch your favorite web browser and go to http://localhost:3000. Your culinary journey begins here!
+   Launch your favorite web browser and go to http://localhost:3000. Your culinary journey begins here!
 
 ## Features 🍽️
+
 Add New Recipes
 Click on the "Add Recipe" button to sprinkle your creativity into the app.
 Input the name, ingredients, steps, and any secret sauce your recipe might have.
@@ -45,4 +45,7 @@ Bon Appétit! 🎊
 Thank you for choosing Cook It Up! We hope this app adds a dash of delight to your culinary adventures. If you encounter any issues or have suggestions for improvement, please let us know.
 
 Happy Cooking! 🥂✨
+
+```
+
 ```
