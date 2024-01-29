@@ -10,6 +10,7 @@ Cook It Up is a user-friendly recipe app that allows culinary enthusiasts to add
 
 ## How to Get Started
 
+```
 1. **Clone the Repository:**
    - Get your apron ready and clone this repository to your local machine. No need to preheat your computer; we've got the tech ingredients covered!
 
@@ -26,6 +27,7 @@ cd recipe-app
 
 4. **Open Sesame:**
    Launch your favorite web browser and go to http://localhost:3000. Your culinary journey begins here!
+```
 
 ## Features 🍽️
 
@@ -45,7 +47,3 @@ Bon Appétit! 🎊
 Thank you for choosing Cook It Up! We hope this app adds a dash of delight to your culinary adventures. If you encounter any issues or have suggestions for improvement, please let us know.
 
 Happy Cooking! 🥂✨
-
-```
-
-```
