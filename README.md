@@ -14,7 +14,7 @@ Cook It Up is a user-friendly recipe app that allows culinary enthusiasts to add
    Get your apron ready and clone this repository to your local machine. No need to preheat your computer; we've got the tech ingredients covered!
 
    ```
-   git clone https://github.com/your-username/recipe-app.git
+   git clone https://github.com/Justdara/recipe-app.git
    cd recipe-app
    ```
 
@@ -33,19 +33,24 @@ Cook It Up is a user-friendly recipe app that allows culinary enthusiasts to add
 
 ## Features 🍽️
 
-Add New Recipes
-Click on the "Add Recipe" button to sprinkle your creativity into the app.
-Input the name, ingredients, steps, and any secret sauce your recipe might have.
-Delete Recipes
-Accidentally added salt instead of sugar? No worries!
-Hover over a recipe and click the delete button to send it to the digital compost bin.
-View Recipes
+- Add New Recipes
+  Click on the "Add Recipe" button to sprinkle your creativity into the app.
+  Input the name, ingredients, steps, and any secret sauce your recipe might have.
+
+- Delete Recipes
+  Accidentally added salt instead of sugar? No worries!
+  Hover over a recipe and click the delete icon to send it to the digital compost bin.
+
+-View Recipes
 Feast your eyes on a visual buffet of recipes.
 Click on a recipe card to view the full details and start cooking up a storm.
-Contributing 🍰
+
+## Contributing 🍰
+
 We welcome all chefs, sous-chefs, and even those who have never boiled water before! Feel free to contribute to the app by adding new features, enhancing the UI, or fixing any bugs you spot. Let's cook up something amazing together!
 
-Bon Appétit! 🎊
+## Bon Appétit! 🎊
+
 Thank you for choosing Cook It Up! We hope this app adds a dash of delight to your culinary adventures. If you encounter any issues or have suggestions for improvement, please let us know.
 
 Happy Cooking! 🥂✨
