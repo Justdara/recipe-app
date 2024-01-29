@@ -2,7 +2,7 @@ import "./ThemeSelector.css";
 import { useTheme } from "../hooks/useTheme";
 import themeIcon from "../assets/theme-icon.svg";
 
-const themeColors = ["#58289d", "#84985b", "#f74234"];
+const themeColors = ["#902428", "#84985b", "#c26d6f"];
 
 export default function ThemeSelector() {
   const { changeColor, changeTheme, theme } = useTheme();
