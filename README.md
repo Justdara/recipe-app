@@ -13,10 +13,10 @@ Cook It Up is a user-friendly recipe app that allows culinary enthusiasts to add
 1. **Clone the Repository:**
    Get your apron ready and clone this repository to your local machine. No need to preheat your computer; we've got the tech ingredients covered!
 
-```
-git clone https://github.com/your-username/recipe-app.git
-cd recipe-app
-```
+   ```
+   git clone https://github.com/your-username/recipe-app.git
+   cd recipe-app
+   ```
 
 2. **Install Dependencies:**
    Whip up the required dependencies by running:
